@@ -5,41 +5,41 @@ h3 {
 }
 
 .container {
-max-width: 60%;
-font-family: Helvetica, Arial, sans-serif;
-font-size: 24px;
-border: 2px solid #DFE0DF;
-padding: 1px;
-border-radius: 3px;
-box-shadow: 3px 7px 10px 7px #DFE0DF;
+  max-width: 60%;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  border: 2px solid #DFE0DF;
+  padding: 1px;
+  border-radius: 3px;
+  box-shadow: 3px 7px 10px 7px #DFE0DF;
 }
 
 #descript {
-width: 90%;
-margin: 15px;
-border: 2px solid #DFE0DF;
-padding: 3px;
+  width: 90%;
+  margin: 15px;
+  border: 2px solid #DFE0DF;
+  padding: 3px;
 }
 
 img {
-width: 300px;
-margin-left: 20px;
-border: 1px solid #DFE0DF;
+  width: 300px;
+  margin-left: 20px;
+  border: 1px solid #DFE0DF;
 }
 
 p {
   padding: 5px;
 }
+
 .impo {
-
-font-style: italic;
+  font-style: italic;
 }
 
-span{
-font-weight: bold;
+span {
+  font-weight: bold;
 }
 
-ul{
-text-indent: -32px;
-list-style-type: none;
+ul {
+  text-indent: -32px;
+  list-style-type: none;
 }
